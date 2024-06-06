@@ -10,7 +10,7 @@ import shapes.Sphere;
 import transformations.*;
 
 /**
- * @author Sayf Elhawary and Mohamed Yassin
+ * @author Sayf Elhawary
  */
 public class ExampleProgram {
 
