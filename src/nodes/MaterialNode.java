@@ -4,7 +4,7 @@ import main.Material;
 import main.Renderer;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class MaterialNode extends PartialScene {
 
