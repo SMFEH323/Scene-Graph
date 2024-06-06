@@ -1,7 +1,7 @@
 package main;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 /**
  * A Camera object encapsulates the information needed to define a viewing
