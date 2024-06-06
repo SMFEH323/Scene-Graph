@@ -4,7 +4,7 @@ import main.Renderer;
 import transformations.Transform;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class TransformNode extends PartialScene {
 
