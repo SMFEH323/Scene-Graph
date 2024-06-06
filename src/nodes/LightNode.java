@@ -4,7 +4,7 @@ import lights.Light;
 import main.Renderer;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class LightNode extends PartialScene {
 
