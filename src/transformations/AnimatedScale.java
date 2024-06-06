@@ -4,7 +4,7 @@ import main.Renderer;
 
 /**
  * AnimatedScale is a subclass of Scale, designed to handle animated scaling transformations.
- * Authors: Sayf Elhawary and Mohammad Yassin
+ * Authors: Sayf Elhawary
  */
 public class AnimatedScale extends Scale {
 
