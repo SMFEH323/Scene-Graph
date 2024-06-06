@@ -4,7 +4,7 @@ import main.Camera;
 import main.Renderer;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class CameraNode extends PartialScene {
 
