@@ -5,7 +5,7 @@ import main.Renderer;
 * AnimatedRotation class extends the Rotation class.
 * This class is responsible for animated rotations.
 * 
-* @author Sayf Elhawary and Mohammad Yassin
+* @author Sayf Elhawary
 */
 public class AnimatedRotation extends Rotation {
 
