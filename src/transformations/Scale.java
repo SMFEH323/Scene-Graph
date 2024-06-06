@@ -6,7 +6,7 @@ import main.Renderer;
  * Scale class, which extends the Transform class.
  * It is responsible for scaling objects in a 3D space.
  * 
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class Scale extends Transform {
 
