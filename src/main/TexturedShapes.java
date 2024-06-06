@@ -2,7 +2,7 @@ package main;
 import com.jogamp.opengl.GL2;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 
 /**
