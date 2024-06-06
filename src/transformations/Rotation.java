@@ -7,7 +7,7 @@ import main.Renderer;
  * This class extends the Transform class and provides 
  * additional functionalities specific to rotation.
  * 
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class Rotation extends Transform {
 
