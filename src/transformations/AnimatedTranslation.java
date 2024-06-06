@@ -4,7 +4,7 @@ import main.Renderer;
 /**
  * AnimatedTranslation extends the Translation class to provide animated transformations.
  * 
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class AnimatedTranslation extends Translation {
 
