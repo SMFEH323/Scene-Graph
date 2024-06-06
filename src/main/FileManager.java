@@ -18,7 +18,7 @@ import shapes.*;
 import transformations.*;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class FileManager {
 
