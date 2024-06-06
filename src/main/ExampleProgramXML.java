@@ -21,7 +21,7 @@ import transformations.Scale;
 import transformations.Translation;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class ExampleProgramXML {
 	/**
