@@ -6,7 +6,7 @@ import java.util.List;
 import main.Renderer;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class PartialScene {
 	private List<PartialScene> children;
