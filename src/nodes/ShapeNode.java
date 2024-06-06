@@ -4,7 +4,7 @@ import main.Renderer;
 import shapes.Shape;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class ShapeNode extends PartialScene {
 
