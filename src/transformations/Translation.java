@@ -3,7 +3,7 @@ package transformations;
 import main.Renderer;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  * 
  * This class handles the translation transformation by extending the Transform class.
  * Translation moves an object along the X, Y, and Z axes.
