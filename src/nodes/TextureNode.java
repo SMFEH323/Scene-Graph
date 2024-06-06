@@ -4,7 +4,7 @@ import main.Renderer;
 import main.Tex;
 
 /**
- * @author Sayf Elhawary and Mohammad Yassin
+ * @author Sayf Elhawary
  */
 public class TextureNode extends PartialScene {
 
